@@ -15,4 +15,4 @@ O projeto do jogo foi desenvolvido utilizando a linguagem C#, mais especificamen
 
 #### 🚧 Dificuldades encontradas
 
-Durante o desenvolvimento desse jogo, foram encontrados alguns problemas em relação ao uso do MinMax, pois muitas vezes, embora a implementação do algoritmo estivesse correta, aconteciam jogadas erradas por parte da "IA", como se ela não tivesse aprendido. Outros problemas foram em relação aos métodos recursivos que dificultavam o uso de ferramentas como o modo debug para identificar o problema.
+Durante o desenvolvimento desse jogo, foram encontrados alguns problemas em relação ao uso do MinMax, pois muitas vezes, embora a implementação do algoritmo estivesse correta, aconteciam jogadas erradas por parte da "IA", como se ela não tivesse aprendido. Outros problemas foram em relação aos métodos recursivos que dificultavam o uso de ferramentas como o modo debug para identificar os problemas.
